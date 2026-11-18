@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-11-18T22:51:45.371509+00:00",
+  "hardware": {
+    "cpu": "Apple A18 Pro",
+    "ram_gb": "8.0",
+    "os": "Darwin 25.4.0",
+    "python_version": "3.14.6"
+  },
+  "pii_redaction": {
+    "num_samples_evaluated": 500,
+    "restoration_accuracy_pct": 100.0,
+    "p50_latency_us": 13.71,
+    "p95_latency_us": 21.63,
+    "p99_latency_us": 68.43,
+    "mean_latency_us": 18.36,
+    "throughput_docs_per_sec": 54473.8
+  },
+  "jailbreak_detection": {
+    "num_attacks_tested": 200,
+    "interception_rate_pct": 100.0,
+    "p50_detection_us": 6.96,
+    "p95_detection_us": 7.54,
+    "mean_detection_us": 7.27
+  }
+}
